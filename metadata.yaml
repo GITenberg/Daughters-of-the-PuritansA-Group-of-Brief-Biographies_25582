@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31434'
     url: http://www.gutenberg.org/2009/agents/31434
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25582#Daughters-of-the-PuritansA-Group-of-Brief-Biographies
 gutenberg_issued: '2008-05-24'
 gutenberg_type: Text
 identifiers:
